@@ -1,6 +1,6 @@
 # Analise-de-Dados-com-Python
 
-**This project was developed at Intensivão de Python carried out by [*Hashtag Progamação*](https://www.youtube.com/@HashtagProgramacao);**
+**This project was developed at Intensivão de Python carried out by [*Hashtag Programação*](https://www.youtube.com/@HashtagProgramacao);**
 
 ### Case - Customer Cancellation
 
